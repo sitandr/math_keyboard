@@ -13,31 +13,38 @@ I combined with significant modifications two layouts: math keyboard from [jkorp
 There are four keys that can be combined to type the symbols: **Alt, Shift, "\`" and "/"**. Up to three of them may be pressed in one time (Alt+Shift+[\`/]). Most of the keys use combination of two (all for now).
 
 - **Alt:**
+
 ![](img/alt.png)
 
 - **Alt + Shift**
+
 ![](img/alt+shift.png)
 
-- **"\`"**
+- **\`**
+
 ![](img/\`.png)
 
-- **"\` + shift"**
+- **\` + Shift**
+
 ![](img/\`+shift.png)//
 
-- **"/"**
+- **/**
+
 ![](img/slash.png)
 
-- **"/" + shift**
+- **/ + Shift**
+
 ![](img/slash+shift.png)
 
 - **Other**
-There is only one such symbol for now: ϕ — **"/" + Alt + F** (don't confuse with φ — "/" + f)
+
+There is only one such symbol for now: ϕ — **"/ + Alt + F"** (don't confuse with φ — "/ + F")
 
 *I hope there will be more symbols soon. Any suggestions and ideas to make this layout more useful are welcome!*
 
 **P.S.** There are symbols that may seem the same, but are not. For example, "\~" (tilde) and "\∼" (tilde math operator). The last can be convinently used in LaTex, Latex would not recognise it as some rule-changing thing.
 
-**P.P.S** There are several common symbols that are actually the same, but presented in different combinations, such as "≈" (*both \` + \` or Alt + \'*) and "∞" (*Alt + Shift + I* or *\` + 8*)
+**P.P.S** There are several common symbols that are actually the same, but presented in different combinations, such as "≈" (*both " \` + \` " or "Alt + \' "*) and "∞" (*"Alt + Shift + I"* or *" \` + 8"*)
 
 ## Why it is better than other math keyboards?
 
